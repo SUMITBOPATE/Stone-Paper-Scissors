@@ -10,8 +10,8 @@
 
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
-    color: #fff;
-    background:$background-gradient;
+    color: rgb(255, 255, 255);
+    background:rgb(23,39,169);
     text-align: center;
     box-sizing: border-box;
 }

@@ -11,6 +11,7 @@
   justify-content: space-between;
 }
 .text {
+
   font-size: 2.5rem;
   text-transform: uppercase;
   display: flex;
@@ -21,11 +22,8 @@
 
 .score-box {
   padding: 0.75rem 2.5rem;
-  background-color: #fff;
-  color: $score-text;
+  background-color: rgb(167, 202, 39);
+  font-size:x-large;
+  color: black;
 }
-.score {
-  color: $dark-text;
-  font-size: 3.5rem;
-  font-weight: 700;
-}
+

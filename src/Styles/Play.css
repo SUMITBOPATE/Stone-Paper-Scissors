@@ -1,0 +1,29 @@
+.play {
+  width: 100%;
+
+  position: relative;
+  margin-top: 3.125rem;
+
+  display: flex;
+  color: rgb(222, 225, 228);
+}
+.triangle {
+  position: absolute;
+  align-self: center;
+  margin-top: 4.375rem;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+}
+.icon {
+  height: 160px;
+  width: 160px;
+  border: 18px solid;
+  border-radius: 50%;
+  transition: transform 0.2s;
+}
+#paper{
+  color: aliceblue;
+}
